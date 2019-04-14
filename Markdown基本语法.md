@@ -111,10 +111,10 @@ or
 ![alt 属性文本](图片地址 "鼠标悬置于图片上会出现的标题文字，可不写")
 ```
 
-![GitHub图标](https://github.com/LDDZ/Notes/Images/GitHub.png "这是GitHub图标")
+![GitHub图标](https://github.com/LDDZ/Notes/blob/master/Images/GitHub.png "这是GitHub图标")
 
 Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的 `<img>` 标签。  
-<img src="https://github.com/LDDZ/Notes/Images/GitHub.png" width="20%">
+<img src="https://github.com/LDDZ/Notes/blob/master/Images/GitHub.png" width="20%">
 
 ## 表格
 
